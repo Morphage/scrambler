@@ -15,8 +15,8 @@ def main():
     	    
     	scramble += " " + moves[random_move]
     	prev_move = moves[random_move]
-	
-	print scramble.strip()
+    	
+    print scramble.strip()
 
 if __name__ == '__main__':
     main()
